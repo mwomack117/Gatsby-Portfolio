@@ -15,9 +15,6 @@ export default function Nav() {
             </li>
             \
             <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
               <Link to="/photography">About</Link>
             </li>
             <li>
